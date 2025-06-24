@@ -42,18 +42,24 @@ input {
 
 .taskItem {
   display: flex;
-  justify-content: space-around;
+  align-items: center;
+  justify-content: space-between;
+
   padding-top: 1rem;
   margin: 1rem;
   gap: 4rem;
+
   & > p {
-    width: 10%;
+    width: 30%;
     color: #1a1a1a;
-    font-weight: 800;
+    font-weight: 900;
     font-size: 40px;
   }
   & > button {
     font-size: 20px;
+  }
+  & > input {
+    justify-self: start;
   }
 }
 
@@ -102,7 +108,7 @@ button:focus-visible {
 }
 
 @media (prefers-color-scheme: light) {
-  :root {
+  /* :root {
     color: #213547;
     background-color: #ffffff;
   }
@@ -111,5 +117,5 @@ button:focus-visible {
   }
   button {
     background-color: #f9f9f9;
-  }
+  } */
 }
