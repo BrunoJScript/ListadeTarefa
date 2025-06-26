@@ -3,7 +3,7 @@
 # 📝 To-Do List App
 
 ### 🔗 Live Demo
-( https://brunojscript.github.io/ListadeTarefa/ )
+( https://brunojscript.github.io/ListadeTarefa/ ) ;)
 
 
 ## 🚀 Features
