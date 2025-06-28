@@ -69,7 +69,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 A simple and responsive To-Do List application built with **React**, **Vite**, and **JavaScript**. Users can add and remove tasks in a clean and intuitive interface.
 
-![To-Do App Screenshot](./screenshot.png) <!-- Optional: Replace with actual image -->
+<!---![To-Do App Screenshot](./screenshot.png) <!-- Optional: Replace with actual image -->
 
 ---
 
